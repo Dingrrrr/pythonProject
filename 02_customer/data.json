@@ -1,0 +1,26 @@
+[
+  {
+    "name": "\ud64d\uae38\ub3d9",
+    "gender": "M",
+    "email": "hong1@gmail.com",
+    "birthyear": "2000"
+  },
+  {
+    "name": "\uae40\ucca0\uc218",
+    "gender": "M",
+    "email": "kim010@gmail.com",
+    "birthyear": "2001"
+  },
+  {
+    "name": "\ubc15\ub098\ub9ac",
+    "gender": "F",
+    "email": "park1@gmail.com",
+    "birthyear": "2002"
+  },
+  {
+    "name": "\ubc15\uc724\uc11c",
+    "gender": "F",
+    "email": "dbsdtj6789@naver.com",
+    "birthyear": "2002"
+  }
+]
